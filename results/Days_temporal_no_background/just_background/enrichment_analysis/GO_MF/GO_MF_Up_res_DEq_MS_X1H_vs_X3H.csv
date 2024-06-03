@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count","name"
+"GO:0016616","GO:0016616","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor","5/73","123/18369",0.000129509659068234,0.0149450666086644,0.0136996443912757,"622/9563/6718/197257/10202",5,"Upres_DEq_MS_X1H_vs_X3H"
+"GO:0016628","GO:0016628","oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor","3/73","28/18369",0.00018367366509644,0.0149450666086644,0.0136996443912757,"6718/7108/79644",3,"Upres_DEq_MS_X1H_vs_X3H"
+"GO:0016614","GO:0016614","oxidoreductase activity, acting on CH-OH group of donors","5/73","133/18369",0.000186813332608305,0.0149450666086644,0.0136996443912757,"622/9563/6718/197257/10202",5,"Upres_DEq_MS_X1H_vs_X3H"
